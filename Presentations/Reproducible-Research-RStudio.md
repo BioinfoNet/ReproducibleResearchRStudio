@@ -6,9 +6,9 @@ autosize: true
 
 Introduction to Reproducibility
 ========================================================
-“Really reproducible research” in computational sciences means:
+"*Really reproducible research*" in computational sciences means:
 
-    "the data and code used to make a finding are available and they are sufficient for an independent researcher to recreate the finding."
+>>the data and code used to make a finding are available and they are sufficient for an independent researcher to recreate the finding
     
     
 Why Should Research Be Reproducible?
