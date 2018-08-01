@@ -4,14 +4,9 @@ author: Caleb Kibet
 date: `r format(Sys.time(), '%d %B, %Y')`
 autosize: true
 
-Introduction
+Introduction to Reproducibility
 ========================================================
-
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
+Introduce research reproducibility here
 
 
 Tips for Reproducible Research
@@ -19,7 +14,7 @@ Tips for Reproducible Research
 1. Document everything!
 2. Everything is a (text) file.
 3. All files should be human readable.
-4. Explicitly tie your files together.
+3. Explicitly tie your files together.
 5. Have a plan to organize, store, and make your files available.
 
 Project Folders
@@ -29,23 +24,24 @@ Project Folders
 files such that using relative paths is easy. Makes paths less dependent on particular File or OS structure.
 - Always avoid putting spaces in your file and directory
 names
-- 
+- Each project must have a README.md that describes the purpose and structure of your project
 
 Before you start
 ===============================
 * Create project within a folder in your computer
-* Create a README.md that describes the purpose and structure of your project
 * Create folder for your code
 * Create folder for Data
   * Raw: Downloaded or gathered from the field
   * Derived: processed through your analysis
+
+======================
 * Create a folder for figures generated from your analysis
 * NB: Ensure separation of information
 
 
 Literate Programming
 ====================
-Literate programming is a crucial part of reproducible quantitative research. Being able to directly link your analyses, your results, and the code you used to produce the results makes tracing your steps much easier.
+Literate programming is a crucial part of a reproducible quantitative research. Being able to directly link your analyses, your results, and the code you used to produce the results makes tracing your steps much easier.
 
 
 Quick Demo
@@ -71,3 +67,9 @@ Slide With Plot
 plot(cars)
 ```
 
+
+Reference Text
+===================
+1. [Reproducible Research with R and RStudio Second Edition](https://englianhu.files.wordpress.com/2016/01/reproducible-research-with-r-and-studio-2nd-edition.pdf) is a great reference text.
+2. https://rmarkdown.rstudio.com/lesson-11.html
+3. https://rmarkdown.rstudio.com/articles_intro.html
