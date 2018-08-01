@@ -27,3 +27,4 @@ The project folders are set up as follows:
 3. KnitR
 
 ## License
+All content of this repo is released under the [C-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
