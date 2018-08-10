@@ -26,9 +26,9 @@ Why Should Research Be Reproducible?
 4. Higher research impact for the researcher
 5. Instils better work habits and teamwork
 
+Future ccollaborator
 ===============================
-![collaborator]
-(https://image.slidesharecdn.com/layton-repro-research-talk-2015-05-06-150507202403-lva1-app6892/95/reproducible-research-first-steps-6-638.jpg?cb=1431031632)
+![collaborator] (https://image.slidesharecdn.com/layton-repro-research-talk-2015-05-06-150507202403-lva1-app6892/95/reproducible-research-first-steps-6-638.jpg?cb=1431031632)
 
 
 Tips for Reproducible Research
@@ -87,11 +87,13 @@ RMarkdown
 - Uses Knitr to execute the embedded code and pandoc to convert to output
 - The flow is:
 
-![RMarkdown] (https://d33wubrfki0l68.cloudfront.net/61d189fd9cdf955058415d3e1b28dd60e1bd7c9b/9791d/images/rmarkdownflow.png)
+![RMarkdown]
+(https://d33wubrfki0l68.cloudfront.net/61d189fd9cdf955058415d3e1b28dd60e1bd7c9b/9791d/images/rmarkdownflow.png)
 
 RMarkdown Output
 ========================
-![Output formats] (https://d33wubrfki0l68.cloudfront.net/00ed9c32053cbc805efa51b66be570558480a4c8/7a292/images/rmarkdownoutputformats.png)
+![Output formats]
+(https://d33wubrfki0l68.cloudfront.net/00ed9c32053cbc805efa51b66be570558480a4c8/7a292/images/rmarkdownoutputformats.png)
 
 Let's hop into RStudio's tutorial to learn more
 ================================
