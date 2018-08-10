@@ -26,7 +26,7 @@ Why Should Research Be Reproducible?
 4. Higher research impact for the researcher
 5. Instils better work habits and teamwork
 
-Future ccollaborator
+Future collaborator
 ===============================
 ![collaborator] (https://image.slidesharecdn.com/layton-repro-research-talk-2015-05-06-150507202403-lva1-app6892/95/reproducible-research-first-steps-6-638.jpg?cb=1431031632)
 
