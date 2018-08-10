@@ -2,9 +2,6 @@
 
 Training materials for the Open Science Workshop, Nairobi. 
 
-## Introduction
-
-
 ## Setting Up
 In this training, we will use a web-based RStudio interface that is fully set up. The instructions here are provided for those participants who need to set up their own PCs. 
 
@@ -22,9 +19,8 @@ The project folders are set up as follows:
 - **Presentations:** Workshop presentation files
 
 ## Content
-1. Introduction to reproducibility with RStudio [Presenation, Markdown, Pdf]
-2. Introduction to Rmarkdown
-3. KnitR
+1. Introduction to reproducibility with RStudio [[Presentation](./Presentations/Reproducible-Research-RStudio.Rpres), [Markdown](./Presentations/Reproducible-Research-RStudio.md)]
+
 
 ## License
-All content of this repo is released under the [C-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)
+All content of this repo is released under the [CC-BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)

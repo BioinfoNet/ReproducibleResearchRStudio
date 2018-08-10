@@ -1,7 +1,7 @@
 Reproducible Research in RStudio
 ========================================================
 author: Caleb Kibet
-date: 01 August, 2018
+date: 10 August, 2018
 autosize: true
 
 Introduction to Reproducibility
@@ -10,14 +10,25 @@ Introduction to Reproducibility
 
 >>the data and code used to make a finding are available and they are sufficient for an independent researcher to recreate the finding
     
-    
+
+Reproducibility and replication
+=================================
+
+[![Reproducibility](http://ijobs.rutgers.edu/wordpress/wp-content/uploads/2016/10/repeatability-vs-reproducibility-e1476212931590.jpg)](https://twitter.com/i/status/1027640401610661889)
+
+
 Why Should Research Be Reproducible?
 ================================
+
 1. It provides a standard to judge scientific claims
 2. Reproducibility enhances replicability.
 3. Helps avoid effort duplication & encourages cumulative knowledge development
 4. Higher research impact for the researcher
-5. Instills better work habbits and teamwork
+5. Instils better work habits and teamwork
+
+===============================
+![collaborator]
+(https://image.slidesharecdn.com/layton-repro-research-talk-2015-05-06-150507202403-lva1-app6892/95/reproducible-research-first-steps-6-638.jpg?cb=1431031632)
 
 
 Tips for Reproducible Research
@@ -59,10 +70,48 @@ Literate programming is a crucial part of a reproducible quantitative research. 
 Quick Demo
 ===============================================
 A demo on:
-
+* Quick tour of RStudio
 * Creating a project
 * setting working directory
 * Creating folders
+
+Version control in RStudio
+========================
+- RStudio has inbuilt version control support
+- Learn more [here](https://aberdeenstudygroup.github.io/studyGroup/lessons/SG-T1-GitHubVersionControl/VersionControl/)
+
+RMarkdown
+===========================
+>R Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. 
+
+- Uses Knitr to execute the embedded code and pandoc to convert to output
+- The flow is:
+
+![RMarkdown] (https://d33wubrfki0l68.cloudfront.net/61d189fd9cdf955058415d3e1b28dd60e1bd7c9b/9791d/images/rmarkdownflow.png)
+
+RMarkdown Output
+========================
+![Output formats] (https://d33wubrfki0l68.cloudfront.net/00ed9c32053cbc805efa51b66be570558480a4c8/7a292/images/rmarkdownoutputformats.png)
+
+Let's hop into RStudio's tutorial to learn more
+================================
+
+[RMarkdown Tutorial](https://rmarkdown.rstudio.com/authoring_quick_tour.html)
+
+[RMarkdown CheatSheet](http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+
+RNotebooks
+==========================
+
+>An R Notebook is an R Markdown document with chunks that can be executed independently and interactively, with output visible immediately beneath the input
+
+- [RNotebook Tutorial](https://rmarkdown.rstudio.com/r_notebooks)
+
+RShiny
+===================
+> Shiny is an R package that makes it easy to build interactive web applications (apps) straight from R.
+
+[Learn more at you own time](https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/)
 
 
 Reference
@@ -71,4 +120,6 @@ Reference
 2. https://rmarkdown.rstudio.com/lesson-11.html
 3. https://rmarkdown.rstudio.com/articles_intro.html
 4. Organizing Projects: http://kbroman.org/Tools4RR/assets/lectures/06_org_eda.pdf
+5. Research reproducibility: http://stm.sciencemag.org/content/8/341/341ps12.full
+
 
