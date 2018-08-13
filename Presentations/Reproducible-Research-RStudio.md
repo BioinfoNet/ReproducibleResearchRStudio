@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 Reproducible Research in RStudio
 ========================================================
 author: Caleb Kibet
@@ -8,7 +13,7 @@ Introduction to Reproducibility
 ========================================================
 "*Really reproducible research*" in computational sciences means:
 
->>the data and code used to make a finding are available and they are sufficient for an independent researcher to recreate the finding
+>the data and code used to make a finding are available and they are sufficient for an independent researcher to recreate the finding
     
 
 Reproducibility and replication
