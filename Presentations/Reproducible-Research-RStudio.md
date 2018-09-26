@@ -43,6 +43,20 @@ Tips for Reproducible Research
 3. All files should be human readable.
 3. Explicitly tie your files together.
 5. Have a plan to organize, store, and make your files available.
+6. Report your research transparently
+
+Keep track of things
+====================
+1. Use version Control
+2. Use proper documentation: README
+2. Use Literate programming: RMarkdown, Jupyter Notebooks 
+
+Share and license your work
+=======================
+- Data: Adhere to FAIR data principles
+- Software: Github and other repos
+- 
+
 
 Project Folders
 ================================
